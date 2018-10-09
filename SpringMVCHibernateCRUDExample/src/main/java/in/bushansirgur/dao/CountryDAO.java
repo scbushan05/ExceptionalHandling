@@ -9,7 +9,7 @@ import org.springframework.stereotype.Repository;
 
 import in.bushansirgur.model.Country;
 
-@Repository
+@Repository("countryDao")
 public class CountryDAO {
 
 	@Autowired
