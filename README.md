@@ -6,7 +6,7 @@ This application demonstrates the Exceptional handling in Spring and Hibernate. 
 **1. Clone the application**
 
 ```bash
-https://github.com/scbushan05/ExceptionalHandling.git
+git clone https://github.com/scbushan05/ExceptionalHandling.git
 ```
 
 **2. Create Mysql database**
